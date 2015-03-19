@@ -1,5 +1,5 @@
 
-The Script in this repository is a single Script which does the following. Word of Caution please create a projectdata folder in your home directory and unzip the project data into that so as to allow this script to fucntion
+The Script in this repository is a single Script which does the following
 1) Reads the X_train,Subject_train and y_train Training Data Sets into different tables
 2)  Subject_Train and y_train vectors were thereafter column bound to the X_Train set
 3) Features Info is thereafter read into another table namely attributes.
